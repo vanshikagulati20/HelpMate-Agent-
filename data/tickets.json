@@ -1,0 +1,20 @@
+{
+  "tickets": [
+    {
+      "ticket_id": "HD-1040",
+      "user_id": "USR-1002",
+      "issue": "Laptop performance is slow",
+      "priority": "Medium",
+      "status": "Open",
+      "assigned_team": "Desktop Support"
+    },
+    {
+      "ticket_id": "HD-1041",
+      "user_id": "USR-1003",
+      "issue": "VPN access unavailable",
+      "priority": "High",
+      "status": "Open",
+      "assigned_team": "Network Support"
+    }
+  ]
+}
